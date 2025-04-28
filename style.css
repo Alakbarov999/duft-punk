@@ -42,7 +42,7 @@ body {
 }
 #banner {
     height: 100vh;
-    background-image: linear-gradient(#00000085, #00000085), url(../test1/daftpunk1.jpg);
+    background-image: linear-gradient(#00000085, #00000085), url(./daftpunk1.jpg);
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
